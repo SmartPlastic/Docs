@@ -1,4 +1,4 @@
-File Restictions
+Newsfeed
 ################
 
 General information following.
