@@ -2,4 +2,4 @@
 The team
 ########
 
-Content to follow...
+Florian and Thomas started SmartPlastic.
