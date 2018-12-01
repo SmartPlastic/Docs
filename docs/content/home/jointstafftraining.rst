@@ -4,7 +4,7 @@ Joint Staff Training
 ====================
 
 **Dierdorf, Germany, November 20.**
-We held our joint staff training in Dierdorf where the teachers of the Erasmus+
+We held our joint staff training in Dierdorf, where the teachers of the Erasmus+
 project came together to discuss the launch.
 After Jan-Micha Kroll, a former student of the MBG who created Sdui_,
 an awesome app making school-student communication way easier,
@@ -15,7 +15,7 @@ where they explained the following:
 * How to use the interface
 * How to upload and manage content
 * How to work together collaboratively
-and more...
+* and more...
 
 Below, you'll find some further instructions on how to connect your student
 with us, download the beta app, or download the presentation's files.
