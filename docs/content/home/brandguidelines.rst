@@ -1,4 +1,4 @@
 Brand Guidelines
 ----------------
 
-:download:`Brand Guidelines <resources/test.txt>`
+Content to follow ...

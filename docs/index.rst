@@ -45,7 +45,7 @@
     :hidden:
 
     content/contributing/becoming_dev.rst
-    content/contributing/worklow_firststeps.rst
+    content/contributing/firststeps.rst
     content/contributing/team_org.rst
 
 .. toctree::

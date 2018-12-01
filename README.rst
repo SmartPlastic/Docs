@@ -4,8 +4,11 @@
 .. include:: ../README.rst
 .. _SmartPlastic: https://smartplastic.eu
 
-Welcome to SmartPlastic's documentation! .. img:: https://smartplasticdocs.readthedocs.io/en/latest/?badge=latest
-=================================================================
+Welcome to SmartPlastic's documentation!
+========================================
+.. image:: https://smartplasticdocs.readthedocs.io/en/latest/?badge=latest
+   :target: https://smartplastic.readthedocs.io/
+   :alt: Documentation Status
 
 SmartPlastic_ aims to make the world a better place.
 
