@@ -12,7 +12,7 @@ I do not find "SmartPlastic" on the App Store/Play Store. Where is it?
 
 Right now, SmartPlastic is pre-release development phase. You are not able to
 download it without signing up for the alpha/beta release. To do so, refer to
-LINK HOME/JOINTSTAFFTRAINING.rst.
+`this article <https://smartplastic.readthedocs.io/en/latest/content/contributing/becoming_dev.html>`__.
 
 I got a problem and it's huge. I don't know what it is, I don't know how to explain it and I am completly lost. What do I do?
 -----------------------------------------------------------------------------------------------------------------------------

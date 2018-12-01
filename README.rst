@@ -4,7 +4,7 @@
 .. include:: ../README.rst
 .. _SmartPlastic: https://smartplastic.eu
 
-Welcome to SmartPlastic's documentation! [![Documentation Status](https://readthedocs.org/projects/smartplastic/badge/?version=latest)](https://smartplasticdocs.readthedocs.io/en/latest/?badge=latest)
+Welcome to SmartPlastic's documentation! .. img:: https://smartplasticdocs.readthedocs.io/en/latest/?badge=latest
 =================================================================
 
 SmartPlastic_ aims to make the world a better place.
@@ -12,16 +12,16 @@ SmartPlastic_ aims to make the world a better place.
 Below are some useful links to help you get started with uploading and managing content, contributing and error handling.
 
 **How to manage content**
-    * How do I upload an article?
-    * Deactivating articles
+    * `How do I upload an article? <https://smartplastic.readthedocs.io/en/latest/content/interface/newsfeed.html#creating-articles>`__
+    * Deactivating articles (not live yet)
 
 **Handling errors**
     * Right now, we didn't experience any errors. If you want to be the first
-      to report one, do so by taking a look at the FAQ section.
+      to report one, do so by taking a look at the `FAQ section <https://smartplastic.readthedocs.io/en/latest/content/home/faq.html#i-got-a-problem-and-it-s-huge-i-don-t-know-what-it-is-i-don-t-know-how-to-explain-it-and-i-am-completly-lost-what-do-i-do>`__.
 
 **Contributing**
-    * Translate SmartPlastic!
-    * Commit to the code
+    * `Translate SmartPlastic! <https://smartplastic.readthedocs.io/en/latest/content/contributing/becoming_dev.html>`__
+    * `Commit to the code <https://smartplastic.readthedocs.io/en/latest/content/contributing/becoming_dev.html>`__
 
 **Further links**
     * `Official Website <https://smartplastic.eu/>`__
