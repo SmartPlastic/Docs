@@ -6,9 +6,10 @@
 
 Welcome to SmartPlastic's documentation!
 ========================================
-.. image:: https://smartplasticdocs.readthedocs.io/en/latest/?badge=latest
+.. image:: https://readthedocs.org/projects/smartplastic/badge/?version=latest
    :target: https://smartplastic.readthedocs.io/
    :alt: Documentation Status
+
 
 SmartPlastic_ aims to make the world a better place.
 
