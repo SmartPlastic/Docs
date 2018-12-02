@@ -32,7 +32,7 @@ If you have any interested students (or are an interested student),
 you can find the GitHub page at https://github.com/smartplastic/,
 it should look similar to this:
 
-.. image:: /resources/screens_desktop/2_github_org.*
+.. image:: /resources/screens_desktop/2_github_org.png
     :alt: Picture of the github organization
 
 There, you can take a closer look at what we are doing right now.
@@ -72,18 +72,22 @@ iOS beta
 .. sidebar:: iOS screenshots
 
     .. image:: /resources/TestflightScreens/2_invitation_email.png
+        :alt: Picture of email
 
     *The invitation email you get after messaging us.*
 
     .. image:: /resources/TestflightScreens/1_empty_testflight.png
+        :alt: Picture of Testflight
 
     *Testflight might be empty after installing it - simply click on the link again to bring up SmartPlastic*
 
     .. image:: /resources/TestflightScreens/3_before_installation.png
+        :alt: Picture of SmartPlastic in Testflight
 
     *The SmartPlastic app's Testflight page should look similar to this - press "INSTALL" to proceed*
 
     .. image:: /resources/TestflightScreens/4_after_installation.png
+        :alt: Picture of installed app
 
     *Finally, you should have the app installed as usual on your device.*
 
