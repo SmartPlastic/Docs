@@ -1,11 +1,11 @@
-.. _Team: https://smartplastic.readthedocs.io/en/latest/content/home/team.html
+.. _team: https://smartplastic.readthedocs.io/en/latest/content/home/team.html
 
 Team organization
 =================
 
 Our team features an imperial structure that makes clear who is able to do what
 and points out why. Currently, our hierarchy is organized as follows. You can
-check what group a developer is assigned to in the Team_ doc.
+check what group a developer is assigned to in the team_ doc.
 
 +----------------------+----------------------------------------------------------------+
 |                      | Groups                                                         |

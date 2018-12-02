@@ -1,4 +1,25 @@
-.. include:: content/landing.rst
+Welcome to SmartPlastic's documentation
+=======================================
+
+This handbook has been *carefully crafted and bottled* by our developer
+team. It should provide any information needed to work with the app, it's
+interface, and point out more relevant facts.
+
+Furthermore, this documentation is the starting point of everybody who wants
+to take an active (coding) part in the project to dive in.
+
+If you got any questions going beyond what is mentioned in the documentation,
+feel free to say hi to us via email (find them on the
+`interface's website <http://interface.smartplastic.eu>`__).
+
+Greetings from Germany!
+
+.. image:: /resources/signature.png
+   :alt: Florian's and Thomas' signature
+
+Florian & Thomas
+
+
 
 .. toctree::
     :maxdepth: 1
@@ -37,7 +58,7 @@
     :caption: - Public Website -
     :hidden:
 
-    content/homepage/published_information.rst
+    content/website/published_information.rst
 
 .. toctree::
     :maxdepth: 1

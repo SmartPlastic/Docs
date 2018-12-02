@@ -33,13 +33,13 @@ it should look similar to this:
 There, you can take a closer look at what we are doing right now.
 
 Are you a teacher and want to see the project developing, see what your students
-are doing or are interested in ``Django``,``WebApps``, or
+are doing or are interested in ``Django``, ``WebApps``, or
 ``mobile app development``, feel free to leave a message for us at
-lenz@smartplastic.eu and we will add you to our github organization.
+hello@smartplastic.eu and we will add you to our github organization.
 
 Are you a student and want to follow the project's development or even want to
 take part in this? Welcome on board! Just hop on by messaging
-lenz@smartplastic.eu and you will be added to the GitHub org as well.
+hello@smartplastic.eu and you will be added to the GitHub org as well.
 
 Installing the beta app
 -----------------------
@@ -52,31 +52,31 @@ Android beta
 ************
 
 #. Make sure your Android version is ``9.0`` or higher.
-You can find your version number in your phone's settings.
+   You can find your version number in your phone's settings.
 #. Follow this link on your mobile to get to the beta entrance website. On this
-website, press the button to enter beta (you may need to authenticate with
-your Google account)
+   website, press the button to enter beta (you may need to authenticate with
+   your Google account)
 #. After the successfull entry, you'll be able to find the app in your usual
-Play Store by searching for "SmartPlastic". Download it, and it should appear on
-your home screen or the apps list. You are now able to start the app.
+   Play Store by searching for "SmartPlastic". Download it, and it should appear
+   on your home screen or the apps list. You are now able to start the app.
 
 
 iOS beta
 ********
 
 #. Make sure your iOS version is ``9.0`` or higher. You can find your version
-number in your phone's settings: ``Settings > General > About > Version``.
+   number in your phone's settings: ``Settings > General > About > Version``.
 #. Send an E-Mail to ``lenz@smartplastic.eu``. Your email adress should be
-the same as your Apple-ID.
+   the same as your Apple-ID.
 #. You will be added to the beta tester group and receive an email that should
-look somewhat similar to the one on the right.
+   look somewhat similar to the one on the right.
 #. Click the link inside the email adress. You will be redirected to a page
-that offers you to enter the beta upon installing the App ``Testflight``.
+   that offers you to enter the beta upon installing the App ``Testflight``.
 #. Download ``Testflight`` from your iPhones App Store and click the link in
-email again if the SmartPlastic beta doesn't show up in the app.
+   email again if the SmartPlastic beta doesn't show up in the app.
 #. Inside testflight, download SmartPlastic. It should appear on your homescreen
-and feature a red dot left of the name to signal that it's a beta application.
-Now you can click on the app and enjoy.
+   and feature a red dot left of the name to signal that it's a beta
+   application. Now you can click on the app and enjoy.
 
 
 Troubleshooting
@@ -84,11 +84,12 @@ Troubleshooting
 
 Right now, there are no known errors that could impact the installation of the
 SmartPlastic beta. If you face a problem, write us an email:
+
 * Message hauser@smartplastic.eu for Android support ...
 * ... or lenz@smartplastic.eu for iOS support.
 * If you get a general question regarding the beta app and haven't found a
-useful answer in the FAQ, contact hauser@smartplastic.eu for any further
-assistance.
+  useful answer in the FAQ, contact hauser@smartplastic.eu for any further
+  assistance.
 
 Downloads
 ---------
