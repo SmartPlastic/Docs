@@ -51,7 +51,7 @@ To install the beta, follow the steps below:
 Android beta
 ************
 
-#. Make sure your Android version is ``9.0`` or higher.
+#. Make sure your Android version is ``5.0`` or higher.
    You can find your version number in your phone's settings.
 #. Follow this link on your mobile to get to the beta entrance website. On this
    website, press the button to enter beta (you may need to authenticate with
@@ -63,6 +63,24 @@ Android beta
 
 iOS beta
 ********
+
+.. sidebar:: iOS screenshots
+
+    .. image:: /resources/TestflightScreens/2_invitation_email.png
+
+    *The invitation email you get after messaging us.*
+
+    .. image:: /resources/TestflightScreens/1_empty_testflight.png
+
+    *Testflight might be empty after installing it - simply click on the link again to bring up SmartPlastic*
+
+    .. image:: /resources/TestflightScreens/3_before_installation.png
+
+    *The SmartPlastic app's Testflight page should look similar to this - press "INSTALL" to proceed*
+
+    .. image:: /resources/TestflightScreens/4_after_installation.png
+
+    *Finally, you should have the app installed as usual on your device.*
 
 #. Make sure your iOS version is ``9.0`` or higher. You can find your version
    number in your phone's settings: ``Settings > General > About > Version``.
