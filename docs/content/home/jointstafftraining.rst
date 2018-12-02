@@ -3,6 +3,11 @@
 Joint Staff Training
 ====================
 
+.. note:: Duo to server constructions, we did not receive any emails prior to
+   sunday evening (2nd of December). We are now able to see all emails (so there
+   is no need to resend them) and are already working trough them
+   - thank you for your patience.
+
 **Dierdorf, Germany, November 20.**
 We held our joint staff training in Dierdorf, where the teachers of the Erasmus+
 project came together to discuss the launch.
@@ -84,8 +89,8 @@ iOS beta
 
 #. Make sure your iOS version is ``9.0`` or higher. You can find your version
    number in your phone's settings: ``Settings > General > About > Version``.
-#. Send an E-Mail to ``lenz@smartplastic.eu``. Your email adress should be
-   the same as your Apple-ID.
+#. Send an E-Mail to ``lenz@smartplastic.eu``. Please provide (1) your Apple-ID
+   and (2) your full name.
 #. You will be added to the beta tester group and receive an email that should
    look somewhat similar to the one on the right.
 #. Click the link inside the email adress. You will be redirected to a page
