@@ -8,6 +8,21 @@ Joint Staff Training
    is no need to resend them) and are already working trough them
    - thank you for your patience.
 
+.. sidebar:: Joint Staff Training
+
+    .. image:: https://smartplastic.eu/assets/jst/jst-teachers.jpg
+        :alt: Picture of the teachers
+
+    *The teachers on their group photo.*
+
+    .. image:: https://smartplastic.eu/assets/jst/jst-presentation.jpg
+        :alt: Picture of the presentation
+
+    *Florian, Thomas and Jan Micha held presentations in the morning.*
+
+    *(Pictures: private)*
+
+
 **Dierdorf, Germany, November 20.**
 We held our joint staff training in Dierdorf, where the teachers of the Erasmus+
 project came together to discuss the launch.
@@ -49,26 +64,6 @@ hello@smartplastic.eu and you will be added to the GitHub org as well.
 Installing the beta app
 -----------------------
 
-Currently, we provide a beta app for both the Android and iOS powered
-mobile phones.
-To install the beta, follow the steps below:
-
-Android beta
-************
-
-#. Make sure your Android version is ``5.0`` or higher.
-   You can find your version number in your phone's settings.
-#. Follow this link on your mobile to get to the beta entrance website. On this
-   website, press the button to enter beta (you may need to authenticate with
-   your Google account)
-#. After the successfull entry, you'll be able to find the app in your usual
-   Play Store by searching for "SmartPlastic". Download it, and it should appear
-   on your home screen or the apps list. You are now able to start the app.
-
-
-iOS beta
-********
-
 .. sidebar:: iOS screenshots
 
     .. image:: /resources/TestflightScreens/2_invitation_email.png
@@ -91,17 +86,38 @@ iOS beta
 
     *Finally, you should have the app installed as usual on your device.*
 
+
+Currently, we provide a beta app for both the Android and iOS powered
+mobile phones.
+To install the beta, follow the steps below:
+
+Android beta
+************
+
+#. Make sure your Android version is ``5.0`` or higher.
+   You can find your version number in your phone's settings.
+#. Follow this link on your mobile to get to the beta entrance website. On this
+   website, press the button to enter beta (you may need to authenticate with
+   your Google account)
+#. After the successfull entry, you'll be able to find the app in your usual
+   Play Store by searching for "SmartPlastic". Download it, and it should appear
+   on your home screen or the apps list. You are now able to start the app.
+
+
+iOS beta
+********
+
 #. Make sure your iOS version is ``9.0`` or higher. You can find your version
    number in your phone's settings: ``Settings > General > About > Version``.
-#. Send an E-Mail to ``lenz@smartplastic.eu``. Please provide (1) your Apple-ID
+#. Send an E-Mail to lenz@smartplastic.eu. Please provide (1) your Apple-ID
    and (2) your full name.
 #. You will be added to the beta tester group and receive an email that should
    look somewhat similar to the one on the right.
 #. Click the link inside the email adress. You will be redirected to a page
    that offers you to enter the beta upon installing the App ``Testflight``.
-#. Download ``Testflight`` from your iPhones App Store and click the link in
+#. Download ``Testflight`` from your iPhone's App Store and click the link in
    email again if the SmartPlastic beta doesn't show up in the app.
-#. Inside testflight, download SmartPlastic. It should appear on your homescreen
+#. Inside ``Testflight``, download SmartPlastic. It should appear on your homescreen
    and feature a red dot left of the name to signal that it's a beta
    application. Now you can click on the app and enjoy.
 
@@ -115,7 +131,7 @@ SmartPlastic beta. If you face a problem, write us an email:
 * Message hauser@smartplastic.eu for Android support ...
 * ... or lenz@smartplastic.eu for iOS support.
 * If you get a general question regarding the beta app and haven't found a
-  useful answer in the FAQ, contact hauser@smartplastic.eu for any further
+  useful answer in the FAQ, contact hello@smartplastic.eu for any further
   assistance.
 
 Downloads

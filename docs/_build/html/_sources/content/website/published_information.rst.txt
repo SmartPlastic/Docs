@@ -1,5 +1,5 @@
-########
-Published information
-########
+#############################
+Published information (empty)
+#############################
 
 Content to follow ...

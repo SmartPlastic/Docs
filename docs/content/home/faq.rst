@@ -22,14 +22,14 @@ make it as comfortable to use as possible. We'd be very happy to assist you
 further in solving the problem. To do so, pick the method that suits best for
 you:
 
-* Contact us via email: Message support@smartplastic.eu and tell us as much
+* **Contact us via email:** Message support@smartplastic.eu and tell us as much
   about the problem you ran into as you can.
-* Contact us via phone: We do not have any main telephone contact times, but it
+* **Contact us via phone:** We do not have any main telephone contact times, but it
   would fit best for us Mondays from 2:30pm until 4pm - altough we are sure to
   find a time together if you do not have time then. Just mail us using the email
   above and we'll give you our number and contact times.
-* Contact us via TeamSpeak: If you are familiar to TeamSpeak, this would be our
-  prefered method of communication as we would be able to assist you directly by
+* **Contact us via TeamSpeak:** If you are familiar to TeamSpeak, this would be our
+  **prefered method** of communication, as we would be able to assist you directly by
   sending you links or files troughout the TeamSpeak client, talk with you
   hassle-free and more. Mail us using the email adress named above and we'll
   make you an appointment with one of our devs. Conntect to ``ts.smartplastic.eu``

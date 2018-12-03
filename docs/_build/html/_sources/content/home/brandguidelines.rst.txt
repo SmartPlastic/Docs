@@ -1,4 +1,4 @@
-Brand Guidelines
-----------------
+Brand Guidelines (empty)
+========================
 
 Content to follow ...

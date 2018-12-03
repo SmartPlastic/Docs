@@ -1,5 +1,5 @@
-########
-The map tab
-########
+###################
+The map tab (empty)
+###################
 
 Content to follow ...

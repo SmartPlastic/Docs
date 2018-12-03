@@ -1,5 +1,5 @@
-########
-Information
-########
+###################
+Information (empty)
+###################
 
 Content to follow...

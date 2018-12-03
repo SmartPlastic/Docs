@@ -1,5 +1,5 @@
-########
-The information tab
-########
+###########################
+The information tab (empty)
+###########################
 
 Content to follow ...

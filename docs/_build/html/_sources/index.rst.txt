@@ -14,7 +14,7 @@ feel free to say hi to us via email (find them on the
 
 Greetings from Germany!
 
-.. image:: /resources/signature.png
+..  /resources/signature.png
    :alt: Florian's and Thomas' signature
 
 Florian & Thomas

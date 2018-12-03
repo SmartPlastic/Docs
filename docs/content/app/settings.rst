@@ -1,5 +1,5 @@
-########
-The settings screen
-########
+###########################
+The settings screen (empty)
+###########################
 
 Content to follow ...
