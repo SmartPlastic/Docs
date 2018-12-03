@@ -32,5 +32,8 @@ you:
   **prefered method** of communication, as we would be able to assist you directly by
   sending you links or files troughout the TeamSpeak client, talk with you
   hassle-free and more. Mail us using the email adress named above and we'll
-  make you an appointment with one of our devs. Conntect to ``ts.smartplastic.eu``
-  and wait until you are moved to a channel by one of our staff members.
+  make you an appointment with one of our devs. After making sure that you have the
+  latest TeamSpeak version installed (or at least ``≥3.1.6``), conntect to the
+  server with the nickname ``SmartPlastic`` (add this instead of an IP or hostname
+  when prompted) and wait until you are moved to a channel by one of our staff
+  members.
