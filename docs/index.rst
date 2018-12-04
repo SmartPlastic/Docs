@@ -14,8 +14,9 @@ feel free to say hi to us via email (find them on the
 
 Greetings from Germany!
 
-..  /resources/signature.png
-   :alt: Florian's and Thomas' signature
+.. image:: https://smartplastic.eu/assets/signature.png
+    :alt: Signature of Florian and Thomas
+    :width: 250px
 
 Florian & Thomas
 
