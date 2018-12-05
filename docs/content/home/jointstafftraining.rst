@@ -96,7 +96,7 @@ Android beta
 
 #. Make sure your Android version is ``5.0`` or higher.
    You can find your version number in your phone's settings.
-#. Follow this link on your mobile to get to the beta entrance website. On this
+#. Follow `this link <https://play.google.com/apps/testing/eu.smartplastic.smartplastic>`_ on your mobile to get to the beta entrance website. On this
    website, press the button to enter beta (you may need to authenticate with
    your Google account)
 #. After the successfull entry, you'll be able to find the app in your usual
