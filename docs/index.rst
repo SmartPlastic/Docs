@@ -29,8 +29,8 @@ Florian & Thomas
 
     content/home/about-us.rst
     content/home/team.rst
+    content/home/changelog.rst
     content/home/jointstafftraining.rst
-    content/home/brandguidelines.rst
     content/home/faq.rst
 
 .. toctree::
@@ -75,4 +75,5 @@ Florian & Thomas
     :caption: - Miscellaneous -
     :hidden:
 
+    content/misc/brandguidelines.rst
     content/misc/logo_resources.rst
