@@ -88,7 +88,8 @@ Installing the beta app
 
 
 Currently, we provide a beta app for both the Android and iOS powered
-mobile phones.
+mobile phones. If you are prompted for log in credentials, use ``test`` as
+the username and ``erasmus+`` as the password.
 To install the beta, follow the steps below:
 
 Android beta
