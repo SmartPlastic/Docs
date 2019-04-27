@@ -29,10 +29,10 @@ Below are some useful links to help you get started with uploading and managing 
 
 **Further links**
     * `Official Website <https://smartplastic.eu/>`__
-    * `WebApp Interface <https://interface.smartplastic.eu/>`__
+    * `WebApp Interface <https://smartplastic.cloud/>`__
     * `GitHub organization <https://github.com/SmartPlastic>`__
 
-      * `GitHub repo for everything but the documentation <https://github.com/FloHauser/SmartPlasticDjango/>`__
-      * `GitHub repo just for the documentation <https://github.com/SmartPlastic/SmartPlasticDocs>`__
+      * `GitHub repo for everything but the documentation <https://github.com/SmartPlastic/Django/>`__
+      * `GitHub repo just for the documentation <https://github.com/SmartPlastic/Docs>`__
 
 *Note:* You may not be able to access the second but last link, as the project is on private status duo to security reasons at the moment. We are working on a fix.

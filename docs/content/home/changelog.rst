@@ -6,7 +6,7 @@ v0.2.3-alpha
 
     @tommylenz and @FloHauser are releasing version 0.2.3-alpha for the first
     test deployment on our personal test server
-    (access it at http://published.smartplastic.eu).
+    (access it at https://smartplastic.cloud).
     Find additional information inside the documentation / the wiki /
     the milestones.
 

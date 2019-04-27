@@ -30,5 +30,6 @@ We are looking forward to working together with great companies like the
 Their fellows
 -------------
 
-**And who else?** Well, right now we are pretty lonely here. If you want to start
-working with us, contact us as described in `this article <https://smartplastic.readthedocs.io/en/latest/content/home/jointstafftraining.html>`__.
+**And who else?** Currently we are glad to have Justus Bendel, Mattis Thiesen
+and Dominik Paczulla with us. If you want to start working with us, contact us
+as described in `this article <https://smartplastic.readthedocs.io/en/latest/content/home/jointstafftraining.html>`__.
