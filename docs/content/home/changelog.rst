@@ -1,6 +1,9 @@
 Changelog
 =========
 
+For more recent versions, see the `GitHub releases <https://github.com/SmartPlastic/Django/releases>`__ page.
+Be aware that you need authorization to access this website.
+
 v0.2.3-alpha
 ------------
 
