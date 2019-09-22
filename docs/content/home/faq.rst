@@ -10,7 +10,7 @@ Try accessing the interface from your desktop pc.
 I do not find "SmartPlastic" on the App Store/Play Store. Where is it?
 ----------------------------------------------------------------------
 
-Right now, SmartPlastic is pre-release development phase. You are not able to
+Right now, SmartPlastic is in pre-release development phase. You are not able to
 download it without signing up for the alpha/beta release. To do so, refer to
 `this article <https://smartplastic.readthedocs.io/en/latest/content/contributing/becoming_dev.html>`__.
 

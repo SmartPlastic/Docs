@@ -10,7 +10,7 @@ to take an active (coding) part in the project to dive in.
 
 If you got any questions going beyond what is mentioned in the documentation,
 feel free to say hi to us via email (find them on the
-`interface's website <https://smartplastic.cloud>`__).
+`interface website <https://smartplastic.cloud>`__).
 
 Greetings from Germany!
 
