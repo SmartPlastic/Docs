@@ -24,9 +24,9 @@ copyright = '2018, Florian Hauser & Thomas Lenz (HauserLenz)'
 author = 'Florian Hauser & Thomas Lenz (HauserLenz)'
 
 # The short X.Y version
-version = 'v0.2'
+version = 'v0.3'
 # The full version, including alpha/beta/rc tags
-release = 'v0.2.2-alpha'
+release = 'v0.3.0-alpha'
 
 
 # -- General configuration ---------------------------------------------------

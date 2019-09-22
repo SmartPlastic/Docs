@@ -10,6 +10,7 @@ Example info blocks include the following topics:
 * The participating schools
 * Waste Disposal Systems
 
-You can add information blocks inside the interface. If you want to edit an
-info block, contact a teacher (or someone else with a higher security level)
-and ask them to do so. Only manager (teacher) are able to delete info blocks.
+You can add information blocks inside the interface.
+These infos will always be visible, although they will get grouped if there are too many.
+We plan to add a feature to filter for a specific name, topic or content so that you can
+find specific information more easily.

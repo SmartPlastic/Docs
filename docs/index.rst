@@ -28,9 +28,9 @@ Florian & Thomas
     :hidden:
 
     content/home/about-us.rst
-    content/home/team.rst
     content/home/changelog.rst
     content/home/jointstafftraining.rst
+    content/home/beta.rst
     content/home/faq.rst
 
 .. toctree::
@@ -42,6 +42,7 @@ Florian & Thomas
    content/interface/tracker.rst
    content/interface/map.rst
    content/interface/information.rst
+   content/interface/registration.rst
 
 .. toctree::
     :maxdepth: 1
