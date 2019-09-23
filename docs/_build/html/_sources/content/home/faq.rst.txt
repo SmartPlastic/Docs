@@ -10,9 +10,16 @@ Try accessing the interface from your desktop pc.
 I do not find "SmartPlastic" on the App Store/Play Store. Where is it?
 ----------------------------------------------------------------------
 
-Right now, SmartPlastic is pre-release development phase. You are not able to
+Right now, SmartPlastic is in pre-release development phase. You are not able to
 download it without signing up for the alpha/beta release. To do so, refer to
 `this article <https://smartplastic.readthedocs.io/en/latest/content/contributing/becoming_dev.html>`__.
+
+I can't join your GitHub organization!
+--------------------------------------
+
+That's strange. Double check wether you have turned on two-factor authentication in your GitHub settings
+(it's inside the security options). If everything is alright over there, contact a developer using one
+of the methods described below.
 
 I got a problem and it's huge. I don't know what it is, I don't know how to explain it and I am completly lost. What do I do?
 -----------------------------------------------------------------------------------------------------------------------------

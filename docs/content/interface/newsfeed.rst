@@ -13,12 +13,8 @@ Follow theses steps to create an article:
 2. Enter your articles title, body and pick a thumbnail.
 3. After you have clicked "Release", your article should show up in the app.
 
-.. Attention:: Please ask someone with "manager" security level (teacher or
-project managers) to edit or delete an existing article.
-
-
-
-
+.. Attention:: Please ask someone with "manager" security level (teacher or project managers) to edit or delete
+   an existing article.
 
 Modifying articles
 ------------------

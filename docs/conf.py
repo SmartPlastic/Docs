@@ -76,7 +76,7 @@ html_theme_options = {
     'logo_only': False,
     'display_version': True,
 }
-html_static_path = ['_static']
+html_static_path = []
 html_logo = 'resources/logo.png'
 
 # Custom sidebar templates, must be a dictionary that maps document names

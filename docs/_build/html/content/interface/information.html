@@ -8,7 +8,7 @@
   
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   
-  <title>Information (empty) &mdash; SmartPlasticDocs v0.2.2-alpha documentation</title>
+  <title>Information &mdash; SmartPlasticDocs v0.3.0-alpha documentation</title>
   
 
   
@@ -17,34 +17,36 @@
   
 
   
+  <script type="text/javascript" src="../../_static/js/modernizr.min.js"></script>
+  
+    
+      <script type="text/javascript" id="documentation_options" data-url_root="../../" src="../../_static/documentation_options.js"></script>
+        <script type="text/javascript" src="../../_static/jquery.js"></script>
+        <script type="text/javascript" src="../../_static/underscore.js"></script>
+        <script type="text/javascript" src="../../_static/doctools.js"></script>
+        <script type="text/javascript" src="../../_static/language_data.js"></script>
+    
+    <script type="text/javascript" src="../../_static/js/theme.js"></script>
 
-  
-  
     
 
   
-
   <link rel="stylesheet" href="../../_static/css/theme.css" type="text/css" />
   <link rel="stylesheet" href="../../_static/pygments.css" type="text/css" />
     <link rel="index" title="Index" href="../../genindex.html" />
     <link rel="search" title="Search" href="../../search.html" />
-    <link rel="next" title="The newsfeed tab" href="../app/newsfeed.html" />
+    <link rel="next" title="Registering a new account in the Interface" href="registration.html" />
     <link rel="prev" title="Map (empty)" href="map.html" /> 
-
-  
-  <script src="../../_static/js/modernizr.min.js"></script>
-
 </head>
 
 <body class="wy-body-for-nav">
 
    
   <div class="wy-grid-for-nav">
-
     
     <nav data-toggle="wy-nav-shift" class="wy-nav-side">
       <div class="wy-side-scroll">
-        <div class="wy-side-nav-search">
+        <div class="wy-side-nav-search" >
           
 
           
@@ -61,7 +63,7 @@
             
             
               <div class="version">
-                v0.2
+                v0.3
               </div>
             
           
@@ -88,9 +90,9 @@
               <p class="caption"><span class="caption-text">- Home -</span></p>
 <ul>
 <li class="toctree-l1"><a class="reference internal" href="../home/about-us.html">About us</a></li>
-<li class="toctree-l1"><a class="reference internal" href="../home/team.html">The team</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../home/changelog.html">Changelog</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../home/jointstafftraining.html">Joint Staff Training</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../home/beta.html">Beta Testing</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../home/faq.html">Frequently Asked Questions (FAQ)</a></li>
 </ul>
 <p class="caption"><span class="caption-text">- Interface -</span></p>
@@ -98,15 +100,20 @@
 <li class="toctree-l1"><a class="reference internal" href="newsfeed.html">Newsfeed</a></li>
 <li class="toctree-l1"><a class="reference internal" href="tracker.html">Tracker (empty)</a></li>
 <li class="toctree-l1"><a class="reference internal" href="map.html">Map (empty)</a></li>
-<li class="toctree-l1 current"><a class="current reference internal" href="#">Information (empty)</a></li>
+<li class="toctree-l1 current"><a class="current reference internal" href="#">Information</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="#creating-info-blocks">Creating info blocks</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#modifying-articles">Modifying articles</a></li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="registration.html">Registering a new account in the Interface</a></li>
 </ul>
 <p class="caption"><span class="caption-text">- App -</span></p>
 <ul>
 <li class="toctree-l1"><a class="reference internal" href="../app/newsfeed.html">The newsfeed tab</a></li>
-<li class="toctree-l1"><a class="reference internal" href="../app/tracker.html">The tracker tab (empty)</a></li>
-<li class="toctree-l1"><a class="reference internal" href="../app/map.html">The map tab (empty)</a></li>
-<li class="toctree-l1"><a class="reference internal" href="../app/information.html">The information tab (empty)</a></li>
-<li class="toctree-l1"><a class="reference internal" href="../app/settings.html">The settings screen (empty)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../app/tracker.html">The tracker tab</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../app/map.html">The map tab</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../app/information.html">The information tab</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../app/settings.html">The settings screen</a></li>
 </ul>
 <p class="caption"><span class="caption-text">- Public Website -</span></p>
 <ul>
@@ -167,7 +174,7 @@
     
       <li><a href="../../index.html">Docs</a> &raquo;</li>
         
-      <li>Information (empty)</li>
+      <li>Information</li>
     
     
       <li class="wy-breadcrumbs-aside">
@@ -186,9 +193,38 @@
           <div role="main" class="document" itemscope="itemscope" itemtype="http://schema.org/Article">
            <div itemprop="articleBody">
             
-  <div class="section" id="information-empty">
-<h1>Information (empty)<a class="headerlink" href="#information-empty" title="Permalink to this headline">¶</a></h1>
-<p>Content to follow…</p>
+  <div class="section" id="information">
+<h1>Information<a class="headerlink" href="#information" title="Permalink to this headline">¶</a></h1>
+<p>The information tab is to add static information, that separates from articles by their
+“timeless” status. While articles should be editorial content that have up-to-dateness,
+info tabs should feature content that will not change and is information not associated
+with special real-world events or a specific time.</p>
+<p>In your interface, it’s easy to create or modify existing info blocks so that
+they are accessible inside the mobile app.</p>
+<div class="section" id="creating-info-blocks">
+<h2>Creating info blocks<a class="headerlink" href="#creating-info-blocks" title="Permalink to this headline">¶</a></h2>
+<p>Follow theses steps to create an info block:</p>
+<ol class="arabic simple" start="0">
+<li><p>Log in to your personal interface account</p></li>
+<li><p>On the infos page, click on “Create info” on the top.</p></li>
+<li><p>Enter your info’s title, body and pick a thumbnail.</p></li>
+<li><p>After you have clicked “Release”, your info block should be instantly visible online.</p></li>
+</ol>
+<div class="admonition attention">
+<p class="admonition-title">Attention</p>
+<p>Only managers (e.g. teachers) are able to modify or delete other’s infos.</p>
+</div>
+</div>
+<div class="section" id="modifying-articles">
+<h2>Modifying articles<a class="headerlink" href="#modifying-articles" title="Permalink to this headline">¶</a></h2>
+<p>If you want to modify one of your articles, follow these steps:</p>
+<p>0. Log in to your personal interface account. You need to have at least
+“manager” security level or above in order to modify or delete an article that is not yours.
+1. On the articles page, scroll and find your article you want to modify.
+2. Click on the article to open up the detail view.
+3. On the top, click “Edit this article”.
+4. After you have changed what you wanted to change, click “Release”.</p>
+</div>
 </div>
 
 
@@ -199,10 +235,10 @@
   
     <div class="rst-footer-buttons" role="navigation" aria-label="footer navigation">
       
-        <a href="../app/newsfeed.html" class="btn btn-neutral float-right" title="The newsfeed tab" accesskey="n" rel="next">Next <span class="fa fa-arrow-circle-right"></span></a>
+        <a href="registration.html" class="btn btn-neutral float-right" title="Registering a new account in the Interface" accesskey="n" rel="next">Next <span class="fa fa-arrow-circle-right"></span></a>
       
       
-        <a href="map.html" class="btn btn-neutral" title="Map (empty)" accesskey="p" rel="prev"><span class="fa fa-arrow-circle-left"></span> Previous</a>
+        <a href="map.html" class="btn btn-neutral float-left" title="Map (empty)" accesskey="p" rel="prev"><span class="fa fa-arrow-circle-left"></span> Previous</a>
       
     </div>
   
@@ -228,25 +264,16 @@
   
 
 
-  
-
-    
-    
-      <script type="text/javascript" id="documentation_options" data-url_root="../../" src="../../_static/documentation_options.js"></script>
-        <script type="text/javascript" src="../../_static/jquery.js"></script>
-        <script type="text/javascript" src="../../_static/underscore.js"></script>
-        <script type="text/javascript" src="../../_static/doctools.js"></script>
-    
-
-  
-
-  <script type="text/javascript" src="../../_static/js/theme.js"></script>
-
   <script type="text/javascript">
       jQuery(function () {
           SphinxRtdTheme.Navigation.enable(true);
       });
-  </script> 
+  </script>
+
+  
+  
+    
+   
 
 </body>
 </html>

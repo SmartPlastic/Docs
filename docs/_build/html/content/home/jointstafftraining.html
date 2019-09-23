@@ -8,7 +8,7 @@
   
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   
-  <title>Joint Staff Training &mdash; SmartPlasticDocs v0.2.2-alpha documentation</title>
+  <title>Joint Staff Training &mdash; SmartPlasticDocs v0.3.0-alpha documentation</title>
   
 
   
@@ -17,34 +17,36 @@
   
 
   
+  <script type="text/javascript" src="../../_static/js/modernizr.min.js"></script>
+  
+    
+      <script type="text/javascript" id="documentation_options" data-url_root="../../" src="../../_static/documentation_options.js"></script>
+        <script type="text/javascript" src="../../_static/jquery.js"></script>
+        <script type="text/javascript" src="../../_static/underscore.js"></script>
+        <script type="text/javascript" src="../../_static/doctools.js"></script>
+        <script type="text/javascript" src="../../_static/language_data.js"></script>
+    
+    <script type="text/javascript" src="../../_static/js/theme.js"></script>
 
-  
-  
     
 
   
-
   <link rel="stylesheet" href="../../_static/css/theme.css" type="text/css" />
   <link rel="stylesheet" href="../../_static/pygments.css" type="text/css" />
     <link rel="index" title="Index" href="../../genindex.html" />
     <link rel="search" title="Search" href="../../search.html" />
-    <link rel="next" title="Frequently Asked Questions (FAQ)" href="faq.html" />
+    <link rel="next" title="Beta Testing" href="beta.html" />
     <link rel="prev" title="Changelog" href="changelog.html" /> 
-
-  
-  <script src="../../_static/js/modernizr.min.js"></script>
-
 </head>
 
 <body class="wy-body-for-nav">
 
    
   <div class="wy-grid-for-nav">
-
     
     <nav data-toggle="wy-nav-shift" class="wy-nav-side">
       <div class="wy-side-scroll">
-        <div class="wy-side-nav-search">
+        <div class="wy-side-nav-search" >
           
 
           
@@ -61,7 +63,7 @@
             
             
               <div class="version">
-                v0.2
+                v0.3
               </div>
             
           
@@ -88,19 +90,14 @@
               <p class="caption"><span class="caption-text">- Home -</span></p>
 <ul class="current">
 <li class="toctree-l1"><a class="reference internal" href="about-us.html">About us</a></li>
-<li class="toctree-l1"><a class="reference internal" href="team.html">The team</a></li>
 <li class="toctree-l1"><a class="reference internal" href="changelog.html">Changelog</a></li>
 <li class="toctree-l1 current"><a class="current reference internal" href="#">Joint Staff Training</a><ul>
 <li class="toctree-l2"><a class="reference internal" href="#contributing">Contributing</a></li>
-<li class="toctree-l2"><a class="reference internal" href="#installing-the-beta-app">Installing the beta app</a><ul>
-<li class="toctree-l3"><a class="reference internal" href="#android-beta">Android beta</a></li>
-<li class="toctree-l3"><a class="reference internal" href="#ios-beta">iOS beta</a></li>
-<li class="toctree-l3"><a class="reference internal" href="#troubleshooting">Troubleshooting</a></li>
-</ul>
-</li>
+<li class="toctree-l2"><a class="reference internal" href="#installing-the-beta-app">Installing the beta app</a></li>
 <li class="toctree-l2"><a class="reference internal" href="#downloads">Downloads</a></li>
 </ul>
 </li>
+<li class="toctree-l1"><a class="reference internal" href="beta.html">Beta Testing</a></li>
 <li class="toctree-l1"><a class="reference internal" href="faq.html">Frequently Asked Questions (FAQ)</a></li>
 </ul>
 <p class="caption"><span class="caption-text">- Interface -</span></p>
@@ -108,15 +105,16 @@
 <li class="toctree-l1"><a class="reference internal" href="../interface/newsfeed.html">Newsfeed</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../interface/tracker.html">Tracker (empty)</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../interface/map.html">Map (empty)</a></li>
-<li class="toctree-l1"><a class="reference internal" href="../interface/information.html">Information (empty)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../interface/information.html">Information</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../interface/registration.html">Registering a new account in the Interface</a></li>
 </ul>
 <p class="caption"><span class="caption-text">- App -</span></p>
 <ul>
 <li class="toctree-l1"><a class="reference internal" href="../app/newsfeed.html">The newsfeed tab</a></li>
-<li class="toctree-l1"><a class="reference internal" href="../app/tracker.html">The tracker tab (empty)</a></li>
-<li class="toctree-l1"><a class="reference internal" href="../app/map.html">The map tab (empty)</a></li>
-<li class="toctree-l1"><a class="reference internal" href="../app/information.html">The information tab (empty)</a></li>
-<li class="toctree-l1"><a class="reference internal" href="../app/settings.html">The settings screen (empty)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../app/tracker.html">The tracker tab</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../app/map.html">The map tab</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../app/information.html">The information tab</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../app/settings.html">The settings screen</a></li>
 </ul>
 <p class="caption"><span class="caption-text">- Public Website -</span></p>
 <ul>
@@ -199,19 +197,19 @@
   <div class="section" id="joint-staff-training">
 <h1>Joint Staff Training<a class="headerlink" href="#joint-staff-training" title="Permalink to this headline">¶</a></h1>
 <div class="admonition note">
-<p class="first admonition-title">Note</p>
-<p class="last">Duo to server constructions, we did not receive any emails prior to
+<p class="admonition-title">Note</p>
+<p>Duo to server constructions, we did not receive any emails prior to
 sunday evening (2nd of December). We are now able to see all emails (so there
 is no need to resend them) and are already working trough them
 - thank you for your patience.</p>
 </div>
 <div class="sidebar">
-<p class="first sidebar-title">Joint Staff Training</p>
+<p class="sidebar-title">Joint Staff Training</p>
 <img alt="Picture of the teachers" src="https://smartplastic.eu/assets/jst/jst-teachers.jpg" />
 <p><em>The teachers on their group photo.</em></p>
 <img alt="Picture of the presentation" src="https://smartplastic.eu/assets/jst/jst-presentation.jpg" />
 <p><em>Florian, Thomas and Jan Micha held presentations in the morning.</em></p>
-<p class="last"><em>(Pictures: private)</em></p>
+<p><em>(Pictures: private)</em></p>
 </div>
 <p><strong>Dierdorf, Germany, November 20.</strong>
 We held our joint staff training in Dierdorf, where the teachers of the Erasmus+
@@ -221,11 +219,11 @@ an awesome app making school-student communication way easier,
 Florian and Thomas held a presentation on the state of the app,
 where they explained the following:</p>
 <ul class="simple">
-<li>Main parts of the app to focus on</li>
-<li>How to use the interface</li>
-<li>How to upload and manage content</li>
-<li>How to work together collaboratively</li>
-<li>and more…</li>
+<li><p>Main parts of the app to focus on</p></li>
+<li><p>How to use the interface</p></li>
+<li><p>How to upload and manage content</p></li>
+<li><p>How to work together collaboratively</p></li>
+<li><p>and more…</p></li>
 </ul>
 <p>Below, you’ll find some further instructions on how to connect your student
 with us, download the beta app, or download the presentation’s files.</p>
@@ -246,74 +244,18 @@ take part in this? Welcome on board! Just hop on by messaging
 </div>
 <div class="section" id="installing-the-beta-app">
 <h2>Installing the beta app<a class="headerlink" href="#installing-the-beta-app" title="Permalink to this headline">¶</a></h2>
-<div class="sidebar">
-<p class="first sidebar-title">iOS screenshots</p>
-<img alt="Picture of email" src="../../_images/2_invitation_email.png" />
-<p><em>The invitation email you get after messaging us.</em></p>
-<img alt="Picture of Testflight" src="../../_images/1_empty_testflight.png" />
-<p><em>Testflight might be empty after installing it - simply click on the link again to bring up SmartPlastic</em></p>
-<img alt="Picture of SmartPlastic in Testflight" src="../../_images/3_before_installation.png" />
-<p><em>The SmartPlastic app’s Testflight page should look similar to this - press “INSTALL” to proceed</em></p>
-<img alt="Picture of installed app" src="../../_images/4_after_installation.png" />
-<p class="last"><em>Finally, you should have the app installed as usual on your device.</em></p>
-</div>
-<p>Currently, we provide a beta app for both the Android and iOS powered
-mobile phones.
-To install the beta, follow the steps below:</p>
-<div class="section" id="android-beta">
-<h3>Android beta<a class="headerlink" href="#android-beta" title="Permalink to this headline">¶</a></h3>
-<ol class="arabic simple">
-<li>Make sure your Android version is <code class="docutils literal notranslate"><span class="pre">5.0</span></code> or higher.
-You can find your version number in your phone’s settings.</li>
-<li>Follow <a class="reference external" href="https://play.google.com/apps/testing/eu.smartplastic.smartplastic">this link</a> on your mobile to get to the beta entrance website. On this
-website, press the button to enter beta (you may need to authenticate with
-your Google account)</li>
-<li>After the successfull entry, you’ll be able to find the app in your usual
-Play Store by searching for “SmartPlastic”. Download it, and it should appear
-on your home screen or the apps list. You are now able to start the app.</li>
-</ol>
-</div>
-<div class="section" id="ios-beta">
-<h3>iOS beta<a class="headerlink" href="#ios-beta" title="Permalink to this headline">¶</a></h3>
-<ol class="arabic simple">
-<li>Make sure your iOS version is <code class="docutils literal notranslate"><span class="pre">9.0</span></code> or higher. You can find your version
-number in your phone’s settings: <code class="docutils literal notranslate"><span class="pre">Settings</span> <span class="pre">&gt;</span> <span class="pre">General</span> <span class="pre">&gt;</span> <span class="pre">About</span> <span class="pre">&gt;</span> <span class="pre">Version</span></code>.</li>
-<li>Send an E-Mail to <a class="reference external" href="mailto:lenz&#37;&#52;&#48;smartplastic&#46;eu">lenz<span>&#64;</span>smartplastic<span>&#46;</span>eu</a>. Please provide (1) your Apple-ID
-and (2) your full name.</li>
-<li>You will be added to the beta tester group and receive an email that should
-look somewhat similar to the one on the right.</li>
-<li>Click the link inside the email adress. You will be redirected to a page
-that offers you to enter the beta upon installing the App <code class="docutils literal notranslate"><span class="pre">Testflight</span></code>.</li>
-<li>Download <code class="docutils literal notranslate"><span class="pre">Testflight</span></code> from your iPhone’s App Store and click the link in
-email again if the SmartPlastic beta doesn’t show up in the app.</li>
-<li>Inside <code class="docutils literal notranslate"><span class="pre">Testflight</span></code>, download SmartPlastic. It should appear on your homescreen
-and feature a red dot left of the name to signal that it’s a beta
-application. Now you can click on the app and enjoy.</li>
-</ol>
-</div>
-<div class="section" id="troubleshooting">
-<h3>Troubleshooting<a class="headerlink" href="#troubleshooting" title="Permalink to this headline">¶</a></h3>
-<p>Right now, there are no known errors that could impact the installation of the
-SmartPlastic beta. If you face a problem, write us an email:</p>
-<ul class="simple">
-<li>Message <a class="reference external" href="mailto:hauser&#37;&#52;&#48;smartplastic&#46;eu">hauser<span>&#64;</span>smartplastic<span>&#46;</span>eu</a> for Android support …</li>
-<li>… or <a class="reference external" href="mailto:lenz&#37;&#52;&#48;smartplastic&#46;eu">lenz<span>&#64;</span>smartplastic<span>&#46;</span>eu</a> for iOS support.</li>
-<li>If you get a general question regarding the beta app and haven’t found a
-useful answer in the FAQ, contact <a class="reference external" href="mailto:hello&#37;&#52;&#48;smartplastic&#46;eu">hello<span>&#64;</span>smartplastic<span>&#46;</span>eu</a> for any further
-assistance.</li>
-</ul>
-</div>
+<p>To participate in beta-testing, follow our <a class="reference external" href="https://smartplastic.readthedocs.io/en/latest/content/home/beta.html">guide</a>.</p>
 </div>
 <div class="section" id="downloads">
 <h2>Downloads<a class="headerlink" href="#downloads" title="Permalink to this headline">¶</a></h2>
 <div class="line-block">
 <div class="line">Here you can download the presentation, explanations and the example files:</div>
-<div class="line"><a class="reference download internal" download="" href="../../_downloads/378c7e96acde6053b479303582d915b9/Presentation.pptx"><code class="xref download docutils literal notranslate"><span class="pre">Presentation</span></code></a></div>
-<div class="line"><a class="reference download internal" download="" href="../../_downloads/f32ea8130b9f02287ff9c68933fe8fd4/Explanation_Databases.xlsx"><code class="xref download docutils literal notranslate"><span class="pre">Databases</span> <span class="pre">explained</span></code></a></div>
-<div class="line"><a class="reference download internal" download="" href="../../_downloads/50b6241a109dccaa13d41a91bce125bc/Example_Article.docx"><code class="xref download docutils literal notranslate"><span class="pre">Example</span> <span class="pre">article</span> <span class="pre">used</span></code></a></div>
-<div class="line"><a class="reference download internal" download="" href="../../_downloads/47ccebf86c73d332a557a785091e6d45/thumb.jpg"><code class="xref download docutils literal notranslate"><span class="pre">Example</span> <span class="pre">article's</span> <span class="pre">thumbnail</span></code></a></div>
+<div class="line"><a class="reference download internal" download="" href="../../_downloads/449964a456c04a887661688171420c8a/Presentation.pptx"><code class="xref download docutils literal notranslate"><span class="pre">Presentation</span></code></a></div>
+<div class="line"><a class="reference download internal" download="" href="../../_downloads/bc50b4dae9acc6878df84659f867ea40/Explanation_Databases.xlsx"><code class="xref download docutils literal notranslate"><span class="pre">Databases</span> <span class="pre">explained</span></code></a></div>
+<div class="line"><a class="reference download internal" download="" href="../../_downloads/25c3a60e93249d80a847a754fdfef68d/Example_Article.docx"><code class="xref download docutils literal notranslate"><span class="pre">Example</span> <span class="pre">article</span> <span class="pre">used</span></code></a></div>
+<div class="line"><a class="reference download internal" download="" href="../../_downloads/c3f1c32caa53d0cfd876f2b7e3b0f002/thumb.jpg"><code class="xref download docutils literal notranslate"><span class="pre">Example</span> <span class="pre">article's</span> <span class="pre">thumbnail</span></code></a></div>
 <div class="line">… or simply download all files together in a single zip-file:</div>
-<div class="line"><a class="reference download internal" download="" href="../../_downloads/5da3660550dd61ea93775e6bd99ca01f/joint-staff-training-dierdorf-nov-2018.zip"><code class="xref download docutils literal notranslate"><span class="pre">ZIP</span> <span class="pre">file</span></code></a></div>
+<div class="line"><a class="reference download internal" download="" href="../../_downloads/5a71f65459b42201cd2835dc6b4a7319/joint-staff-training-dierdorf-nov-2018.zip"><code class="xref download docutils literal notranslate"><span class="pre">ZIP</span> <span class="pre">file</span></code></a></div>
 </div>
 </div>
 </div>
@@ -326,10 +268,10 @@ assistance.</li>
   
     <div class="rst-footer-buttons" role="navigation" aria-label="footer navigation">
       
-        <a href="faq.html" class="btn btn-neutral float-right" title="Frequently Asked Questions (FAQ)" accesskey="n" rel="next">Next <span class="fa fa-arrow-circle-right"></span></a>
+        <a href="beta.html" class="btn btn-neutral float-right" title="Beta Testing" accesskey="n" rel="next">Next <span class="fa fa-arrow-circle-right"></span></a>
       
       
-        <a href="changelog.html" class="btn btn-neutral" title="Changelog" accesskey="p" rel="prev"><span class="fa fa-arrow-circle-left"></span> Previous</a>
+        <a href="changelog.html" class="btn btn-neutral float-left" title="Changelog" accesskey="p" rel="prev"><span class="fa fa-arrow-circle-left"></span> Previous</a>
       
     </div>
   
@@ -355,25 +297,16 @@ assistance.</li>
   
 
 
-  
-
-    
-    
-      <script type="text/javascript" id="documentation_options" data-url_root="../../" src="../../_static/documentation_options.js"></script>
-        <script type="text/javascript" src="../../_static/jquery.js"></script>
-        <script type="text/javascript" src="../../_static/underscore.js"></script>
-        <script type="text/javascript" src="../../_static/doctools.js"></script>
-    
-
-  
-
-  <script type="text/javascript" src="../../_static/js/theme.js"></script>
-
   <script type="text/javascript">
       jQuery(function () {
           SphinxRtdTheme.Navigation.enable(true);
       });
-  </script> 
+  </script>
+
+  
+  
+    
+   
 
 </body>
 </html>

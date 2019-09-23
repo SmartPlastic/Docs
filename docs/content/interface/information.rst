@@ -17,8 +17,7 @@ Follow theses steps to create an info block:
 0. Log in to your personal interface account
 1. On the infos page, click on "Create info" on the top.
 2. Enter your info's title, body and pick a thumbnail.
-3. After you have clicked "Release", your info block should be instantly visible
-online.
+3. After you have clicked "Release", your info block should be instantly visible online.
 
 .. Attention:: Only managers (e.g. teachers) are able to modify or delete other's infos.
 
