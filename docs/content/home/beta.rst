@@ -59,6 +59,9 @@ iOS beta
    and feature a red dot left of the name to signal that it's a beta
    application. Now you can click on the app and enjoy.
 
+Even though the way above is the preffered way, should you run into any issues, try accessing `this link <https://testflight.apple.com/join/6jowO>`__ on your mobile to get to the Testflight registration.
+After that, follow the above steps (starting with step 4) to finish installing the beta.
+
 
 Troubleshooting
 ***************
