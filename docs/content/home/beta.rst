@@ -47,7 +47,7 @@ iOS beta
 
 #. Make sure your iOS version is ``9.0`` or higher. You can find your version
    number in your phone's settings: ``Settings > General > About > Version``.
-#. Send an E-Mail to lenz@smartplastic.eu. Please provide (1) your Apple-ID
+#. Send an E-Mail to thomas.lenz@hauserlenz.com. Please provide (1) your Apple-ID
    and (2) your full name.
 #. You will be added to the beta tester group and receive an email that should
    look somewhat similar to the one on the right.
@@ -69,8 +69,8 @@ Troubleshooting
 Right now, there are no known errors that could impact the installation of the
 SmartPlastic beta. If you face a problem, write us an email:
 
-* Message hauser@smartplastic.eu for Android support ...
-* ... or lenz@smartplastic.eu for iOS support.
+* Message florian.hauser@hauserlenz.com for Android support ...
+* ... or thomas.lenz@hauserlenz.com for iOS support.
 * If you get a general question regarding the beta app and haven't found a
   useful answer in the FAQ, contact hello@smartplastic.eu for any further
   assistance.
